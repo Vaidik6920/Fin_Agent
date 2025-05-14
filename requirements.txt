@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+yfinance
+ray[rllib]
+torch
+transformers
+langchain
+openai
+faiss-cpu
+pytest
